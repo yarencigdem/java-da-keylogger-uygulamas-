@@ -1,0 +1,546 @@
+Mouse girildi: x=482, y=308
+Mouse cikildi: x=488, y=220
+Mouse girildi: x=492, y=199
+Mouse cikildi: x=538, y=128
+Mouse girildi: x=519, y=129
+Mouse cikildi: x=489, y=137
+Mouse girildi: x=488, y=196
+Mouse cikildi: x=499, y=203
+Mouse girildi: x=474, y=212
+Mouse cikildi: x=455, y=209
+Mouse girildi: x=448, y=209
+Mouse cikildi: x=440, y=208
+Mouse girildi: x=432, y=208
+Mouse cikildi: x=441, y=207
+Mouse girildi: x=450, y=208
+Mouse cikildi: x=454, y=208
+Mouse girildi: x=461, y=209
+Mouse cikildi: x=460, y=210
+Mouse girildi: x=456, y=202
+Mouse cikildi: x=456, y=194
+Mouse girildi: x=493, y=147
+Mouse cikildi: x=526, y=128
+Mouse girildi: x=558, y=101
+Mouse cikildi: x=650, y=30
+1
+y
+a
+r
+e
+n
+c
+i
+g
+d
+m
+@
+g
+m
+a
+i
+l
+.
+c
+o
+m
+Mouse Clicked: x=255, y=159
+Mouse Clicked: x=255, y=159
+1
+0
+0
+0
+0
+1
+y
+a
+r
+e
+n
+c
+i
+g
+d
+m
+@
+g
+m
+a
+i
+l
+.
+c
+o
+m
+1
+Mouse pressed: x=439, y=259
+Mouse pressed: x=552, y=242
+Mouse Clicked: x=552, y=242
+Mouse entered: x=454, y=88
+Mouse exited: x=642, y=30
+Mouse entered: x=542, y=38
+Mouse exited: x=358, y=84
+Mouse entered: x=278, y=103
+Mouse exited: x=224, y=99
+Mouse entered: x=232, y=101
+Mouse exited: x=234, y=120
+Mouse entered: x=242, y=141
+Mouse exited: x=247, y=160
+Mouse entered: x=286, y=158
+Mouse exited: x=288, y=160
+Mouse entered: x=264, y=183
+Mouse exited: x=233, y=231
+Mouse entered: x=254, y=277
+Mouse exited: x=289, y=378
+Mouse entered: x=680, y=70
+Mouse exited: x=541, y=140
+Mouse entered: x=496, y=162
+Mouse exited: x=465, y=183
+Mouse entered: x=455, y=191
+Mouse exited: x=509, y=205
+Mouse entered: x=524, y=178
+Mouse exited: x=543, y=137
+Mouse entered: x=554, y=114
+Mouse exited: x=587, y=29
+Mouse entered: x=533, y=34
+Mouse exited: x=351, y=98
+Mouse entered: x=229, y=150
+Mouse exited: x=209, y=160
+Mouse entered: x=248, y=158
+Mouse exited: x=317, y=136
+Mouse entered: x=368, y=122
+Mouse exited: x=461, y=90
+Mouse entered: x=488, y=79
+Mouse exited: x=571, y=30
+Mouse entered: x=524, y=33
+Mouse exited: x=458, y=83
+Mouse entered: x=448, y=95
+Mouse exited: x=461, y=160
+Mouse entered: x=495, y=130
+Mouse exited: x=518, y=106
+Mouse entered: x=550, y=79
+Mouse exited: x=655, y=30
+Mouse entered: x=454, y=177
+Mouse exited: x=339, y=80
+1
+Mouse entered: x=318, y=100
+Mouse exited: x=312, y=120
+m
+a
+i
+l
+y
+o
+l
+l
+a
+1
+2
+3
+@
+g
+m
+a
+i
+l
+.
+c
+o
+m
+Mouse entered: x=303, y=141
+Mouse exited: x=295, y=160
+1
+Mouse entered: x=290, y=180
+Mouse exited: x=279, y=231
+Mouse entered: x=308, y=252
+Mouse exited: x=134, y=270
+Mouse entered: x=159, y=256
+Mouse exited: x=214, y=268
+Mouse entered: x=249, y=277
+Mouse exited: x=495, y=406
+Mouse entered: x=134, y=335
+Mouse exited: x=81, y=268
+Mouse entered: x=124, y=224
+Mouse exited: x=223, y=139
+Mouse entered: x=249, y=119
+Mouse exited: x=264, y=120
+Mouse entered: x=219, y=140
+Mouse exited: x=208, y=135
+Mouse entered: x=207, y=128
+
+y
+a
+r
+e
+n
+c
+i
+g
+d
+m
+Mouse exited: x=211, y=128
+Mouse entered: x=374, y=127
+Mouse exited: x=473, y=131
+Mouse entered: x=469, y=161
+Mouse exited: x=460, y=184
+Mouse entered: x=456, y=191
+Mouse exited: x=294, y=232
+Mouse entered: x=203, y=248
+Mouse exited: x=150, y=251
+Mouse entered: x=153, y=248
+Mouse exited: x=210, y=239
+Mouse entered: x=265, y=230
+Mouse exited: x=485, y=100
+Mouse entered: x=515, y=79
+Mouse exited: x=577, y=29
+Mouse entered: x=456, y=186
+Mouse exited: x=367, y=132
+c
+i
+g
+d
+m
+@
+g
+m
+a
+i
+l
+.
+c
+o
+m
+Mouse entered: x=327, y=141
+Mouse pressed: x=320, y=159
+Mouse released: x=320, y=159
+Mouse Clicked: x=320, y=159
+Mouse exited: x=320, y=160
+1
+Mouse entered: x=311, y=181
+Mouse exited: x=285, y=232
+Mouse entered: x=269, y=272
+Mouse exited: x=256, y=453
+Mouse entered: x=691, y=49
+Mouse exited: x=547, y=136
+Mouse entered: x=491, y=179
+Mouse exited: x=469, y=197
+Mouse entered: x=449, y=212
+Mouse exited: x=297, y=270
+Mouse entered: x=309, y=239
+Mouse exited: x=475, y=145
+Mouse entered: x=514, y=123
+Mouse exited: x=544, y=105
+Mouse entered: x=559, y=98
+Mouse exited: x=664, y=30
+Mouse entered: x=608, y=31
+Mouse exited: x=242, y=121
+Mouse entered: x=183, y=140
+Mouse exited: x=-114, y=254
+Mouse entered: x=8, y=245
+Mouse exited: x=60, y=243
+Mouse entered: x=148, y=224
+Mouse exited: x=256, y=173
+Mouse entered: x=285, y=159
+Mouse exited: x=345, y=130
+Mouse entered: x=396, y=108
+Mouse exited: x=566, y=30
+Mouse entered: x=451, y=208
+Mouse exited: x=337, y=129
+Mouse entered: x=328, y=109
+Mouse exited: x=322, y=98
+Mouse entered: x=313, y=78
+Mouse exited: x=294, y=80
+1
+Mouse entered: x=284, y=100
+Mouse exited: x=272, y=120
+y
+a
+
+
+m
+a
+i
+l
+y
+ı
+
+o
+l
+l
+a
+1
+1
+
+2
+3
+@
+g
+m
+a
+i
+l
+.
+c
+o
+m
+Mouse entered: x=264, y=140
+Mouse exited: x=271, y=160
+1
+Mouse entered: x=202, y=168
+Mouse exited: x=302, y=243
+Mouse entered: x=322, y=219
+Mouse exited: x=465, y=154
+Mouse entered: x=588, y=104
+Mouse exited: x=697, y=65
+Mouse entered: x=646, y=123
+Mouse exited: x=594, y=141
+Mouse entered: x=542, y=161
+Mouse exited: x=465, y=187
+Mouse entered: x=427, y=201
+Mouse exited: x=301, y=252
+Mouse entered: x=254, y=281
+Mouse exited: x=245, y=346
+Mouse entered: x=330, y=322
+Mouse exited: x=538, y=209
+Mouse entered: x=577, y=197
+Mouse exited: x=831, y=56
+Mouse entered: x=643, y=125
+Mouse exited: x=592, y=136
+Mouse entered: x=453, y=159
+Mouse exited: x=264, y=232
+Mouse entered: x=206, y=239
+Mouse exited: x=149, y=240
+Mouse entered: x=157, y=252
+Mouse exited: x=210, y=250
+Mouse entered: x=204, y=251
+Mouse exited: x=150, y=257
+Mouse entered: x=156, y=254
+Mouse exited: x=224, y=267
+Mouse entered: x=254, y=272
+Mouse exited: x=294, y=269
+Mouse entered: x=303, y=264
+Mouse exited: x=302, y=255
+Mouse entered: x=307, y=233
+Mouse exited: x=474, y=159
+Mouse entered: x=496, y=162
+Mouse exited: x=478, y=181
+Mouse entered: x=478, y=180
+Mouse exited: x=497, y=158
+Mouse entered: x=536, y=129
+Mouse exited: x=654, y=29
+Mouse entered: x=457, y=183
+Mouse exited: x=291, y=80
+1
+Mouse entered: x=271, y=100
+Mouse exited: x=254, y=121
+m
+a
+i
+l
+y
+o
+l
+l
+a
+1
+2
+3
+@
+g
+m
+a
+i
+l
+.
+c
+o
+m
+Mouse entered: x=246, y=141
+Mouse exited: x=239, y=160
+1
+Mouse entered: x=258, y=181
+Mouse exited: x=255, y=231
+Mouse entered: x=313, y=241
+Mouse exited: x=281, y=270
+Mouse entered: x=265, y=228
+Mouse exited: x=232, y=177
+Mouse entered: x=218, y=148
+Mouse exited: x=185, y=29
+Mouse entered: x=219, y=31
+Mouse exited: x=210, y=23
+Mouse entered: x=219, y=32
+Mouse exited: x=217, y=30
+Mouse entered: x=222, y=32
+Mouse exited: x=218, y=30
+Mouse entered: x=200, y=38
+Mouse exited: x=82, y=231
+Mouse entered: x=171, y=253
+Mouse exited: x=211, y=253
+Mouse entered: x=337, y=210
+Mouse exited: x=705, y=39
+Mouse entered: x=689, y=33
+Mouse exited: x=678, y=30
+Mouse entered: x=442, y=88
+Mouse exited: x=290, y=80
+Mouse entered: x=276, y=100
+Mouse exited: x=263, y=120
+Mouse entered: x=260, y=142
+Mouse exited: x=253, y=160
+Mouse entered: x=245, y=181
+Mouse exited: x=244, y=234
+Mouse entered: x=198, y=260
+Mouse exited: x=150, y=264
+Mouse entered: x=163, y=239
+Mouse exited: x=336, y=162
+Mouse entered: x=375, y=148
+Mouse exited: x=488, y=106
+Mouse entered: x=559, y=88
+Mouse pressed: x=642, y=55
+Mouse released: x=659, y=100
+Mouse exited: x=388, y=30
+Mouse entered: x=288, y=31
+Mouse exited: x=256, y=30
+1
+ö
+
+m
+a
+i
+l
+y
+o
+l
+l
+a
+1
+2
+3
+@
+g
+m
+a
+i
+l
+.
+c
+o
+m
+1
+1
+m
+a
+i
+l
+y
+o
+l
+l
+a
+1
+2
+3
+@
+g
+m
+a
+i
+l
+.
+c
+o
+m
+1
+1
+m
+a
+i
+l
+y
+o
+l
+l
+a
+1
+2
+3
+@
+g
+m
+a
+i
+l
+.
+c
+o
+m
+1
+1
+m
+a
+i
+l
+Mouse girildi: x=444, y=93
+Mouse çıkıldı: x=362, y=96
+Mouse girildi: x=268, y=103
+Mouse çıkıldı: x=255, y=121
+Mouse girildi: x=253, y=142
+Mouse çıkıldı: x=256, y=160
+Mouse girildi: x=255, y=184
+Mouse çıkıldı: x=246, y=233
+Mouse girildi: x=335, y=191
+Mouse çıkıldı: x=482, y=87
+Mouse girildi: x=517, y=63
+Mouse çıkıldı: x=575, y=21
+Mouse girildi: x=452, y=190
+Mouse çıkıldı: x=351, y=139
+m
+a
+i
+l
+
+
+
+
+
+y
+a
+r
+e
+n
+c
+i
+g
+d
+m
+@
+g
+m
+a
+i
+l
+.
+c
+o
+m
+Mouse girildi: x=314, y=140
+Mouse çıkıldı: x=288, y=160
+1
+Mouse girildi: x=349, y=181
+Mouse çıkıldı: x=255, y=233
+Mouse girildi: x=303, y=244
+Mouse çıkıldı: x=435, y=348
+Mouse girildi: x=671, y=119
+Mouse çıkıldı: x=556, y=208
+Mouse girildi: x=546, y=217
+Mouse çıkıldı: x=387, y=343
+Mouse girildi: x=688, y=43
+Mouse çıkıldı: x=550, y=96
+Mouse girildi: x=519, y=112
+Mouse çıkıldı: x=491, y=131
+Mouse girildi: x=417, y=149
+Mouse çıkıldı: x=147, y=242
+Mouse girildi: x=164, y=259
+Mouse çıkıldı: x=492, y=210
+Mouse girildi: x=542, y=179
+Mouse çıkıldı: x=542, y=160
+Mouse girildi: x=566, y=119
+Mouse çıkıldı: x=612, y=28
